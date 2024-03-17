@@ -1,1 +1,3 @@
 # Keylogger-Python-Project
+
+This basic keylogger python project that captures keyboard input events, such as key presses and releases, and logs them in a JSON file ('logs.json'). It uses the `pynput` library to monitor and record keystrokes, distinguishing between key presses and key holds. The code sets up event handlers for key press and release events and continuously listens to and logs keyboard activity while running, making it a simple keylogging utility for demonstration purposes. And also advancement of this Python project code creates a simple keylogger with a graphical user interface (GUI) using `tkinter`. It allows users to start and stop the keylogging process, logging keypress and release events in a JSON file ('logs.json').
